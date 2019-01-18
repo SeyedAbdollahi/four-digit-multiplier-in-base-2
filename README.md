@@ -1,4 +1,4 @@
-# four-digit-multiplier-in-base-2
+# four-digit multiplier in base 2
 A simple practice for logic circuits
 
 
